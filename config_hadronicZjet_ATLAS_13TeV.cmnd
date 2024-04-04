@@ -1,0 +1,19 @@
+Beams:eCM = 13000
+
+WeakBosonAndParton:qqbar2gmZg = on
+WeakBosonAndParton:qg2gmZq = on
+
+23:onMode = off
+23:onIfAny = 1 2 3 4 5
+
+PhaseSpace:pTHatMin = 590
+
+PartonLevel:FSR = on
+PartonLevel:ISR = on
+PartonLevel:MPI = off
+HadronLevel:Hadronize = off
+
+PDF:pSet = 8
+
+Random:setSeed = on
+Random:seed = 123456789
